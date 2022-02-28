@@ -1,0 +1,466 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pritty well drest dish of petites, cook'd at Westminster, with great charge at the cost of three kingdomes also here are other delicates, which may be well tasted and digested in the pallats and p[o?]nches of royalists and loyalists.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90958</idno>
+            <idno type="STC">Wing P3323A</idno>
+            <idno type="STC">ESTC R42821</idno>
+            <idno type="EEBO-CITATION">38875802</idno>
+            <idno type="OCLC">ocm 38875802</idno>
+            <idno type="VID">152335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90958)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152335)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2293:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pritty well drest dish of petites, cook'd at Westminster, with great charge at the cost of three kingdomes also here are other delicates, which may be well tasted and digested in the pallats and p[o?]nches of royalists and loyalists.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1647?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: stained, torn, and worn, with loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:152335:1"/>
+            <!-- PDF PAGE 107 -->
+            <head>A pritty well dreſt Diſh of Petites, cook'd at Weſtminſter, with great charge at the coſt of three Kingdomes: Alſo here are other Delicates, which may be well taſted and digeſted in the Pallats and P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nches of Royaliſts and Loyaliſts.</head>
+            <lg>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">P</seg>Ritty</hi> Parliament, <hi>has it voted?</hi>
+               </l>
+               <l>
+                  <hi>Pritty</hi> Preachers <hi>have you throated,</hi>
+               </l>
+               <l>Charles <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>wne.</l>
+               <l>
+                  <hi>We hope e're long the time w<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Your</hi> Donſhips <hi>ſhall receive your doome,</hi>
+               </l>
+               <l>
+                  <hi>And the</hi> Devill <hi>his owne.</hi>
+               </l>
+               <l>
+                  <hi>Pritty</hi> Aſhburnham <hi>and</hi> Barkley,</l>
+               <l>
+                  <hi>If fame (of you) tell not a ſtarke lye,</hi>
+               </l>
+               <l>
+                  <hi>You make one Traytor</hi>
+               </l>
+               <l>
+                  <hi>Betwixt you at leaſt, and have out done;</hi>
+               </l>
+               <l>
+                  <hi>The Devill and the Divells ſonne</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Agitator.</l>
+               <l>
+                  <hi>Pritty Synod, do's it ſit,</hi>
+               </l>
+               <l>
+                  <hi>Voyde of grace as well of wit?</hi>
+               </l>
+               <l>
+                  <hi>And make no Cannons;</hi>
+               </l>
+               <l>
+                  <hi>But ſuch as Ordinance are calld,</hi>
+               </l>
+               <l>
+                  <hi>Which hath the very ſoules enthralld</hi>
+               </l>
+               <l>
+                  <hi>of every Manon's.</hi>
+               </l>
+               <l>
+                  <hi>Now from black</hi> Tom, <hi>and blacker</hi> Noll,</l>
+               <l>
+                  <hi>That kill and ſlay without controll,</hi>
+               </l>
+               <l>
+                  <hi>Thereby to end us</hi>
+               </l>
+               <pb facs="tcp:152335:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 108 -->
+               <l>
+                  <figure>
+                     <head>Tho<hi rend="sup">s</hi>. Iolley Esq<hi rend="sup">r</hi>. F. S. A.</head>
+                  </figure>
+               </l>
+               <pb facs="tcp:152335:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 108 -->
+               <pb facs="tcp:152335:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 109 -->
+               <pb n="1" facs="tcp:152335:3"/>
+               <!-- PDF PAGE 109 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:152335:4"/>
+               <!-- PDF PAGE 110 -->
+               <l>
+                  <hi>From the Synods nonſence, and their Treaſon,</hi>
+               </l>
+               <l>
+                  <hi>And from their Catechiſtick reaſon,</hi>
+               </l>
+               <l>
+                  <hi>Good Heaven defend us.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>Thankes to the Right Honourable, the Earle of</hi> Northumberland, <hi>for his late Vote in behalfe of his</hi> MAJESTY.</head>
+            <lg>
+               <l>ALL Haile (brave <hi>Percy</hi>) once Great Admirall!</l>
+               <l>We thought thee a fix'd ſtar till thou didſt fall;</l>
+               <l>And <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>Or dire revenge did through thee from thy Sphere.</l>
+               <l>And) of an Angell) make a <hi>Lucifer,</hi>
+               </l>
+               <l>Till thou to bleating <hi>Warwick</hi> didſt reſigne</l>
+               <l>Thy Trident, thou wert th' Oceans God, and mine;</l>
+               <l>For till that time my <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thoughts with thee</l>
+               <l>Committed ſerious Idolatry,</l>
+               <l>And my eſteeme of thee, was then as high</l>
+               <l>As were thy merits, or thy dignity;</l>
+               <l>But thou waſt Mortall <hi>Percy,</hi> and we finde</l>
+               <l>Tall Ceadars oft borne downe by populer winde</l>
+               <l>Thus (hurried with the crowd) thou didſt withdraw,</l>
+               <l>(As the moſt did) thy Fealty, and Awe</l>
+               <l>From thy dear<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter, who to thine and thee</l>
+               <l>Shewd alwaies more of <hi>Love</hi> then <hi>Majeſty:</hi>
+               </l>
+               <l>Which doth improove thy guilt, and makes it far</l>
+               <l>More legible, in too great a <hi>Character;</hi>
+               </l>
+               <pb n="3" facs="tcp:152335:4"/>
+               <!-- PDF PAGE 110 -->
+               <l>But if thy conſcience hath given thee the cheeck,</l>
+               <l>And <hi>Iſrael</hi> hath conquerd <hi>Amalec;</hi>
+               </l>
+               <l>If God will not, thou ſhouldſt be carried on,</l>
+               <l>I' the common nutry of damnation;</l>
+               <l>Welcome <hi>Bleſt Convert</hi> to thy King, and God!</l>
+               <l>Thy pardon's ſign'd, if thou'lt but kiſſe the Rod,</l>
+               <l>Take theſe impreſſions then (my Lord) let none</l>
+               <l>Betray the Honour twice of <hi>Algernone:</hi>
+               </l>
+               <l>Care not what poyſon-whiſpering <hi>Say</hi> ſuggeſts,</l>
+               <l>Who (for his ends) both Law and Scripture wreſts:</l>
+               <l>Who playes a moſt religious Devills part;</l>
+               <l>A Saint in ſpeech, a Sathan in his heart:</l>
+               <l>An Hipocrite in graine, makes ill ſeeme well,</l>
+               <l>To whom old <hi>Nick,</hi> ſurnamed <hi>Machiavell,</hi>
+               </l>
+               <l>
+                  <hi>Achitophell,</hi> or curſt <hi>Iſcariot,</hi>
+               </l>
+               <l>Theſe (paralleld with him) were each a ſot,</l>
+               <l>Be deafe to that Damcc'd Siron, here permit</l>
+               <l>Him to your ſecrets, or ſoules Cabinet;</l>
+               <l>Be not affraid of that confuſed Yell,</l>
+               <l>Which belches out Rebellion, as Hell</l>
+               <l>Doth Surphurs: Nor dread th' uſurped power</l>
+               <l>Can vote 3 Kingdomes ruine in one houre;</l>
+               <l>Care not for what they doe, or what they ſay</l>
+               <l>What <hi>Pembrooke,</hi> or your Brother <hi>Sarum</hi> Bray,</l>
+               <l>That fine wiſe Aker, who do's value more</l>
+               <l>His Akers then his honour, do's adore</l>
+               <l>
+                  <hi>Mammon</hi> for's God, or's King, though 'tis well knowne</l>
+               <l>What the <hi>Cecillians</hi> owe to Englands Crowne.</l>
+               <l>Be true to thy owne <hi>Charles,</hi> and by this feate</l>
+               <l>Make good thy true diſcent from <hi>Charles</hi> the <hi>Great;</hi>
+               </l>
+               <l>Put on thy Loyall Robes, and we will Saint thee,</l>
+               <l>A Loyall <hi>Percy</hi> is not each dayes dainty.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="4" facs="tcp:152335:5"/>
+            <!-- PDF PAGE 111 -->
+            <head>
+               <hi>The State of</hi> England, <hi>or</hi> Lilburnes <hi>Parliament.</hi>
+            </head>
+            <head type="sub">WHEREIN THE HOUSE OF <hi>COMMONS</hi> ARE THE <hi>SVPREAME POWER.</hi>
+            </head>
+            <lg>
+               <l>THey the ſupreameſt power (O how good <hi>John!</hi>)</l>
+               <l>Whence ſprung this pritty new Dominion?</l>
+               <l>From revelation or from extaſie,</l>
+               <l>This upſtart muſhrom foyſt Supreamacie.</l>
+               <l>Call in the Heraulds <hi>(John)</hi> for ere we part,</l>
+               <l>I will rip up the bowels of their Art;</l>
+               <l>But I will know how, and when thoſe Dawes,</l>
+               <l>Grew Maſters of our <hi>King,</hi> our <hi>Lives,</hi> our <hi>Lawes.</hi>
+               </l>
+               <l>Are they not <hi>Engliſh,</hi> Yes: Not Subjects, No?</l>
+               <l>Nay then I leave 'em <hi>Gentiles,</hi> yet not ſo.</l>
+               <l>Can a hoarſe <hi>Cobler,</hi> or a <hi>Weavers</hi> Votes</l>
+               <l>Create you Kings? do Crownes grow in their throates?</l>
+               <l>(I wiſh they would in my purſe) can they carry't</l>
+               <l>Upon the ſtrength of Roaſt Biefe, and burnt Claret<g ref="char:punc">▪</g>
+               </l>
+               <l>If theſe two be th' ingredients of a King,</l>
+               <l>He eate him all my ſelfe, or <hi>Marriot</hi> bring.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="5" facs="tcp:152335:5"/>
+            <!-- PDF PAGE 111 -->
+            <head>A ſalutation to the Londoners.</head>
+            <lg>
+               <l>THe City Lanthorne, quickly; I'de faine ſee,</l>
+               <l>Where is the Kings or Subjects Libertie;</l>
+               <l>The one in care, in <hi>Caresborough</hi> captiv'd,</l>
+               <l>The other tonguetide, manacled, and gyv'de</l>
+               <l>In ſundry Priſons. O moſt rare and baſe!</l>
+               <l>This is the Parliaments eſpeciall Grace.</l>
+               <l>Free men of <hi>London,</hi> 'tis a lye; ye're ſlaves</l>
+               <l>To <hi>Weſtminſter,</hi> and (worſe) to your owne knaves,</l>
+               <l>Which in the mother <hi>Saxon</hi> ſignifies</l>
+               <l>A Servant; ſo you all are <hi>Gregories:</hi>
+               </l>
+               <l>And like to be ſo ſtill, unleſſe the feare</l>
+               <l>Of plunder (more then God) your ſoules do reare</l>
+               <l>Into a poſture of defence; and rowſe</l>
+               <l>Your craft-falne ſpirits; and caſt off the drowze</l>
+               <l>And lethargie has ſeis'd you; O is night</l>
+               <l>So heavy on you, and this weight ſo light?</l>
+               <l>Do ye hugge your fetters, and court ſlaverie?</l>
+               <l>Then take them for your paines: tis fit that yee</l>
+               <l>Should Still be pleaſd, the Cookes 'oth <hi>Parliament</hi>
+               </l>
+               <l>Know well your Dyet; both what you reſent</l>
+               <l>And what you like, but ſee they ſerve not in</l>
+               <l>(For the laſt diſh) Damnation for your ſin.</l>
+               <l>Has God (to pay your baſe and groundleſſe feares)</l>
+               <l>Made Idols of you, not Idollaters?</l>
+               <l>You ſtand like ſtatues all; you gape and mope,</l>
+               <l>As if you beg'd maſſacre, or the rope:</l>
+               <l>Which you (poore ſoules) had reaſon long to feare,</l>
+               <l>(Know you one <hi>Tompkins?</hi> and one <hi>Challoner?</hi>)</l>
+               <l>But is it not prodigious that one man</l>
+               <l>Should ſtrike and drag this great <hi>Leviathan?</hi>
+               </l>
+               <pb n="6" facs="tcp:152335:6"/>
+               <!-- PDF PAGE 112 -->
+               <l>Speed him to Green-land quickly, or hee'l ſpoyle</l>
+               <l>The Towns whole ſtore, both of the Ribs, and Oyle:</l>
+               <l>Thou bought'ſt thy ſlavery with thy coine and plate,</l>
+               <l>And ſhalt beg ſlaviſh bread from gate to gate,</l>
+               <l>Except thou ſtand up bravely and prevent it,</l>
+               <l>You and your Heires forever will repent it;</l>
+               <l>You ſhall be common Rogues, and know no King</l>
+               <l>That might protect you from a ruining;</l>
+               <l>You have been Parliament all Hackney Naggs,</l>
+               <l>Treaſon hath been ſupported by your baggs,</l>
+               <l>Knaves, Fooles, and Mad men, that ſo ſwift did run</l>
+               <l>To miſchiefe, and deſir'd to be undone;</l>
+               <l>Yet for all this take courage, now's the time,</l>
+               <l>Alleagiance expiates all former crime,</l>
+               <l>Be wiſe and Loyall now, or elſe thy doome</l>
+               <l>Is fixd in Heaven, this thy day is come.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Shelton Iunior, <hi>or the ſecond part of Collin Cloute, a warning peice to the City of</hi> London.</head>
+            <lg>
+               <l>O Cives, Cives, looke well to your Wives,</l>
+               <l>And to your God Mammon,</l>
+               <l>Or he that rules <hi>Hammond</hi>
+               </l>
+               <l>And all England to boot,</l>
+               <l>Will ſhortly put you to't,</l>
+               <l>And for all you great brags</l>
+               <l>He will crumble your baggs,</l>
+               <l>And for all your great hopes</l>
+               <l>Will plunder your ſhops,</l>
+               <l>And make a new faire</l>
+               <l>Of pure London ware,</l>
+               <pb n="7" facs="tcp:152335:6"/>
+               <!-- PDF PAGE 112 -->
+               <l>And of the Religion</l>
+               <l>Will make a meere Widgion;</l>
+               <l>Then poore <hi>Jack</hi> Presbyter</l>
+               <l>Muſt fall with the Miter:</l>
+               <l>And in the concluſion</l>
+               <l>Cry welcome confuſion.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>A Propheſie.</head>
+            <lg>
+               <l>VVHen <hi>Mounſeir Noll,</hi> that <hi>Paſſe Partout</hi>
+               </l>
+               <l>Shall mount his <hi>Paſſe Vent,</hi>
+               </l>
+               <l>Attended with his Rebell Rout,</l>
+               <l>Then <hi>London</hi> ſhall be ſhent.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>A Prayer for all Lay-Elders.</head>
+            <lg>
+               <l>LET them be grave, and ſollid, as are blocks,</l>
+               <l>And let them take <hi>Nonſence</hi> for Orthodox;</l>
+               <l>Let jealouſies poſſeſſe them day and night,</l>
+               <l>Let them be heavy, and their Wives be light;</l>
+               <l>O let there alway Sects and brabling be</l>
+               <l>To Vex and trouble the Presbytery:</l>
+               <l>Let all their ſons (at one and twenty yeeres)</l>
+               <l>Prove arrant fooles, and have extended eares,</l>
+               <l>As large as <hi>Ceres</hi> ever gave to Cornes,</l>
+               <l>And be more noted then their Fathers hornes;</l>
+               <l>O let no ſparke of modeſty be ſcene</l>
+               <l>In any of their Daughters at foreteene;</l>
+               <l>But let the threſhold of their Fathers doore</l>
+               <l>Be evermore beſtriden with a Whoore,</l>
+               <pb n="8" facs="tcp:152335:7"/>
+               <!-- PDF PAGE 113 -->
+               <l>And leaſt (there ſhould want Vice) to correct all,</l>
+               <l>Let all their Families to lewdneſſe fall</l>
+               <l>And let them all appeare before the King</l>
+               <l>Receive their ſentence, face about and ſwing.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>A Prayer for our Friends at Weſtminſter.</head>
+            <lg>
+               <l>YOU Mountebanks of State, long may you live</l>
+               <l>To take ſuch Phyſick as your ſelves did give;</l>
+               <l>May you have war, and may the ſword deſtroy</l>
+               <l>Your Families, and may you ne're enjoy</l>
+               <l>The benefits of Peace; ma' ye feele the Rod</l>
+               <l>And till y' have peace with'e King, have none with God.</l>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:152335:7"/>
+               <!-- PDF PAGE 113 -->
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
